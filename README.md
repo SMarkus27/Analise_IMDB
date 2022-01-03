@@ -1,4 +1,6 @@
-<img align='center' src='https://github.com/SMarkus27/Analise_IMDB/blob/main/imdb.png' >
+<p align='center'>
+  <img align='center' src='https://github.com/SMarkus27/Analise_IMDB/blob/main/imdb.png' width=300 height=200>
+</p>
 <h2> Análise dos dados do IMDb</h2>
 <h3> Descrição</h3>
 Lançado on-line em 1990 é uma subsidiária da Amazon.com desde 1998, IMDb é uma fonte mundial mais popular e confiável para conteúdo de filme, TV e celebridades, projetado para os fãs explorar o mundo de filmes e programas e decidir o que assistir.
