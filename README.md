@@ -27,4 +27,4 @@ Levantar insights com os dados do IMDb e responder as seguintes questões:
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 <br>
-* <a href='https://github.com/SMarkus27/Analise_IMDB/blob/main/IMDB.ipynb'>Análise IMDb</a> 
+* <a href='https://marcusvcpereira.netlify.app/imdb'>Análise IMDb</a> 
